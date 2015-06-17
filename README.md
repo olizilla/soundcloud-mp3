@@ -14,6 +14,8 @@ castnow $(scmp3 /ghostpoet/meltdown-squarepusher-vs)
 # Now playing!
 ```
 
+![](https://cloud.githubusercontent.com/assets/58871/8220294/2d292508-1549-11e5-849d-9acd208af5cc.gif)
+
 ---
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
