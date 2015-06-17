@@ -1,6 +1,11 @@
 # soundcloud-mp3
 
+```
+npm install -g soundcloud-mp3
+```
+
 Guess the mp3 stream url from a soundcloud page url
+
 
 ```shell
 scmp3 /ghostpoet/meltdown-squarepusher-vs
