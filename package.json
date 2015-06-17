@@ -1,0 +1,29 @@
+{
+  "name": "soundcloud-mp3",
+  "version": "1.0.0",
+  "description": "Guess the mp3 stream url from a soundcloud page url",
+  "main": "index.js",
+  "bin": {
+    "scmp3": "cli.js"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olizilla/soundcloud-url.git"
+  },
+  "author": "olizilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olizilla/soundcloud-url/issues"
+  },
+  "homepage": "https://github.com/olizilla/soundcloud-url#readme",
+  "devDependencies": {
+    "standard": "^4.3.0",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "soundcloud-id": "^1.0.0"
+  }
+}
